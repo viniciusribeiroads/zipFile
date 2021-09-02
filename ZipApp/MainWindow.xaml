@@ -1,0 +1,14 @@
+﻿<Window x:Class="ZipApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ZipApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="button" Content="COMPACTAR&#xD;&#xA;" HorizontalAlignment="Left" Margin="72,116,0,0" VerticalAlignment="Top" Height="36" Width="146" Click="Button_Click" FontSize="18"/>
+        <Button x:Name="button1" Content="DESCOMPACTAR&#xA;" HorizontalAlignment="Left" Margin="72,0,0,0" VerticalAlignment="Center" Height="36" Width="146" Click="Button1_Click" FontSize="18"/>
+
+    </Grid>
+</Window>
