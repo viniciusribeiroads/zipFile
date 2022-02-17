@@ -2,7 +2,7 @@
 ## Programa pra descompactar arquivos zipados
 
 
-Precisei de uma forma de descompactar muitos arquivos zipado para um cliente, então fiz um código utilizando a classe nativa do C# ZipFile, para funcionar e preciso que façamos o seguinte:
+Precisei de uma forma de descompactar muitos arquivos zipados, então fiz um código utilizando a classe nativa do C# ZipFile, para funcionar é preciso que façamos o seguinte:
 
 Criar uma pasta chamada zip no disco local C:, ficando assim:
 C:\zip
